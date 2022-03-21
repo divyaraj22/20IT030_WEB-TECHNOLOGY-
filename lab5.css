@@ -1,0 +1,52 @@
+.divyaraj{
+    border:1px solid black;
+    background-color: dimgrey;
+    height: 50px;
+}
+.divyaraj1{
+    text-align: center;
+    border:1px solid black;
+    background-color: dimgrey;
+    height: 25px;
+    
+
+}
+.divyaraj2{
+    box-sizing: border-box;
+    border:1px solid black;
+    background-color: dimgrey;
+    text-align: center;
+    height: 100px;
+    padding-left: 100px;
+    padding-top: 40px;
+
+
+}
+.divyaraj3{
+    box-sizing: border-box;
+    border:1px solid black;
+    background-color: dimgrey;
+    height: 290px;
+    width: 280px;
+    display: inline-block;
+    padding-top: 125px;
+    padding-left: 103px;
+}
+.divyaraj4{
+    box-sizing: border-box;
+    border:1px solid black;
+    background-color: dimgrey;
+    display: inline-block;
+    height: 290px;
+    width: 1062px;
+    float: right;
+    padding-top: 125px;
+    padding-left: 503px;
+    
+}
+.divyaraj5{
+    border:1px solid black;
+    background-color: dimgrey;
+    text-align: center;
+
+}
